@@ -30,11 +30,14 @@ Guide a Valkyrie through procedurally generated labyrinths, recover the key hidd
 
 ## Controls
 
-WASD / Arrow Keys  - Move
-Space / J          - Cast magic
-R                  - Restart
-M                  - Toggle sound
-N                  - Toggle music
+| Action | Keys |
+|----------|----------|
+|WASD / Arrow Keys | Move |
+|Space / J | Cast magic |
+|R | Restart |
+|M | Toggle sound |
+|N | Toggle music |
+| Action | Keys |
 
 ## Tech
 
