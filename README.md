@@ -1,0 +1,42 @@
+# Valkyria
+
+A retro-style dungeon crawler built as an AI-assisted game development project. Swedish language ingame text.
+
+Guide a Valkyrie through procedurally generated labyrinths, recover the key hidden in a side chamber, and reach the exit while fighting enemies with magic.
+
+## Features
+
+- Procedurally generated dungeons
+- 100 levels of increasing difficulty
+- Fast arcade-style combat
+- Multiple dungeon themes
+- Pixel-art inspired visuals
+- Synthesized music and sound effects
+- Pure HTML, CSS, and JavaScript
+- No external assets or dependencies
+
+## Controls
+
+WASD / Arrow Keys  - Move
+Space / J          - Cast magic
+R                  - Restart
+M                  - Toggle sound
+N                  - Toggle music
+
+## Tech
+
+- HTML5 Canvas
+- Vanilla JavaScript
+- Web Audio API
+- Procedural generation
+- AI-assisted development
+
+## Project Goal
+
+Valkyria explores how far a complete game can be developed using AI-assisted workflows while remaining entirely self-contained.
+
+## Play
+
+Open Valkyria.html in a modern browser and press any key to begin.
+
+"Find the key. Escape the labyrinth. Return to Valhalla."
