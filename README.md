@@ -4,6 +4,18 @@ A retro-style dungeon crawler built as an AI-assisted game development project. 
 
 Guide a Valkyrie through procedurally generated labyrinths, recover the key hidden in a side chamber, and reach the exit while fighting enemies with magic.
 
+![Screenshot](valkyria.png)
+<p align="center">
+  <img src="valkyria2.png" width="49%">
+  <img src="valkyria3.png" width="49%">
+</p>
+
+## Play Online
+ 
+🎮 **Play Valkyria in your browser**
+ 
+[https://olaelias.github.io/Valkyria/](https://olaelias.github.io/Valkyria/)
+
 ## Features
 
 - Procedurally generated dungeons
