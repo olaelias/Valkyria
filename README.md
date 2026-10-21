@@ -1,6 +1,6 @@
 # Valkyria
 
-A retro-style dungeon crawler built as an AI-assisted game development project. Swedish language ingame text.
+A retro-style dungeon crawler built as an AI-assisted game development project.
 
 Guide a Valkyrie through procedurally generated labyrinths, recover the key hidden in a side chamber, and reach the exit while fighting enemies with magic.
 
@@ -26,6 +26,7 @@ Guide a Valkyrie through procedurally generated labyrinths, recover the key hidd
 - Synthesized music and sound effects
 - Pure HTML, CSS, and JavaScript
 - No external assets or dependencies
+- Swedish language ingame text
 
 ## Controls
 
